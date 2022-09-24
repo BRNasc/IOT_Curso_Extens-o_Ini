@@ -5,6 +5,5 @@ Repositório para guardar os códigos das aulas do curso de extensão "IoT e edg
 ## Projeto: Sensor ultrasonico para detecção de distancia de objetos 
 <img src="Spectacular Kasi.png">
 
-<a href="2022-09-03-aula-03/2022-09-03-IoT-com-poyatos-aula-03.ino">Código para o Arduino</a>
+<a href="Ultrasonico3.ino">Código para o Arduino</a>
 </br>
-<a href="2022-09-03-aula-03/2022-09-03-IoT-com-poyatos-aula-03.brd">Arquivo para o Tinkercad</a>
